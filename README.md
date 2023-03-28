@@ -1,7 +1,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
+      <img width="400" src="https://d27jswm5an3efw.cloudfront.net/app/uploads/2019/07/insert-image-html.jpg" />
     </td>
     <td style="border: 0";>
       <p>
