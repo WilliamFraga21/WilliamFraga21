@@ -28,12 +28,8 @@
 | :-: | :-: | :-: |
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliamFraga21&theme=midnight_purple) | [![](https://streak-stats.demolab.com/?user=DenverCoder1&theme=midnight-purple)](https://git.io/streak-stats) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilliamFraga21&theme=midnight_purple) | [![](https://streak-stats.demolab.com/?user=WilliamFraga21&theme=midnight-purple)](https://git.io/streak-stats) |
 | :-: | :-: |
-
-
-| [![](https://streak-stats.demolab.com/?user=DenverCoder1&theme=midnight-purple)](https://git.io/streak-stats) |
-| :-: |
 
 
 
