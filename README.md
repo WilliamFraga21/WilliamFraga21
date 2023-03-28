@@ -32,7 +32,7 @@
 | :-: | :-: |
 
 
-|  | [![](https://streak-stats.demolab.com/?user=DenverCoder1&theme=midnight-purple)](https://git.io/streak-stats) |
+| [![](https://streak-stats.demolab.com/?user=DenverCoder1&theme=midnight-purple)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 
