@@ -24,7 +24,7 @@
 
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliamFraga21&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilliamFraga21&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WilliamFraga21&theme=midnight_purple) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilliamFraga21&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilliamFraga21&theme=midnight_purple) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamFraga21&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | :-: | :-: | :-: |
 
 
