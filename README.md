@@ -5,7 +5,7 @@
     </td>
     <td style="border: 0";>
       <p>
-        💻 Olá me chamo William Victor, estou cursando ensino superior na <br> Faculdade (Fatec zona sul - dom Paulo Evaristo Arns) Curso: Desenvolvimento <br> de Software Multiplataforma, atualmente no 3° Semestre no período Vespertino.
+        💻 Olá me chamo William Victor, estou cursando ensino superior na <br> Faculdade (Fatec zona sul - dom Paulo Evaristo Arns) Curso: Desenvolvimento <br> de Software Multiplataforma, atualmente no 4° Semestre no período Vespertino (Tarde).
       </p>
       <h3>Contatos</h3>
       <ul>
